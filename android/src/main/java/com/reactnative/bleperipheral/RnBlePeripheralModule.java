@@ -16,6 +16,6 @@ public class RnBlePeripheralModule extends ReactContextBaseJavaModule {
 
   @Override
   public String getName() {
-    return "RnBlePeripheral";
+    return "RNBlePeripheral";
   }
 }
